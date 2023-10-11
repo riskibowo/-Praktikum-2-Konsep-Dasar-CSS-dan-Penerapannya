@@ -66,8 +66,8 @@ dan CSS.</p>
 ```
 
 - Selanjutnya buka pada brwoser untuk melihat hasilnya.
+![2](https://github.com/riskibowo/-Praktikum-2-Konsep-Dasar-CSS-dan-Penerapannya/assets/115862112/422aeeb0-2e55-4f61-b692-cd53a618ddc5)
 
-![prak2_html2](https://github.com/mullf/Lab2_HTML_ProgWeb/assets/115521049/0e7236b2-7ef0-4347-a968-0627d04eb6a1)
 
 ### 3. Menambahkan Inline CSS
 - Kemudian tambahkan deklarasi inline CSS pada tag ``<p>``seperti berikut.
@@ -77,7 +77,8 @@ dan CSS.</p>
 
 - Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-![prak2_html3](https://github.com/mullf/Lab2_HTML_ProgWeb/assets/115521049/928a2bd3-80a4-4a87-a011-56fa3a308245)
+![3](https://github.com/riskibowo/-Praktikum-2-Konsep-Dasar-CSS-dan-Penerapannya/assets/115862112/a17c2e35-04ef-4244-ae63-55fb1afef947)
+
 
 ### 4. Membuat CSS Eksternal
 - Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
@@ -111,7 +112,8 @@ nav a:hover {
 
 - Selanjutnya refresh kembali browser untuk melihat perubahannya.
 
-![prak2_html4](https://github.com/mullf/Lab2_HTML_ProgWeb/assets/115521049/c7787f0a-08d0-4214-8237-d7a0342a9407)
+![4](https://github.com/riskibowo/-Praktikum-2-Konsep-Dasar-CSS-dan-Penerapannya/assets/115862112/25df4fe2-cedb-49fe-8cd3-200c03f5a345)
+
 
 ## 5. Menambahkan CSS Selector
 - Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
@@ -144,11 +146,13 @@ nav a:hover {
 
 -Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
-![prak2_html5](https://github.com/mullf/Lab2_HTML_ProgWeb/assets/115521049/5df090e7-6d76-4f9f-b6a1-1bb410016260)
+![5](https://github.com/riskibowo/-Praktikum-2-Konsep-Dasar-CSS-dan-Penerapannya/assets/115862112/494605e2-6cac-4088-86df-f6337e95b5bc)
+
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
- ![prak2_html6](https://github.com/mullf/Lab2_HTML_ProgWeb/assets/115521049/fd0a5ce2-a9e4-45f2-af81-577666da2b19)
+![1,1](https://github.com/riskibowo/-Praktikum-2-Konsep-Dasar-CSS-dan-Penerapannya/assets/115862112/b47ce05f-6331-4326-9fb9-6159349bd2b4)
+
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
   - Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
