@@ -35,6 +35,7 @@ dan CSS.</p>
 
 - Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
+<img width="960" alt="Cuplikan layar 2023-10-11 194846" src="https://github.com/riskibowo/-Praktikum-2-Konsep-Dasar-CSS-dan-Penerapannya/assets/115862112/464001a7-d0c5-4f50-a0b2-6142bfa0aab6">
 
 
 
